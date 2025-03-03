@@ -1,2 +1,0 @@
-# versionhallintatunti
-Jep jep
